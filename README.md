@@ -31,7 +31,6 @@ Here are a few highlights from my recent work:
 - **[Credit Risk Prediction Model](#)**: A predictive model to assess creditworthiness using logistic regression and decision trees.
 - **[SQL Data Pipelines](#)**: Efficient data pipeline built with SQL for handling and transforming large-scale transactional data.
 
-### 🔗 Connect with Me
 
 
 ---
