@@ -1,11 +1,11 @@
 
 ### Hi there! 👋 I'm Tahmid Alam
 
-I'm a Data Science graduate currently working as a Data Analyst in the credit card industry. My role involves developing and refining various financial models to better understand and serve our customers. I specialize in using **R** and **SQL** to analyze data, build predictive models, and derive actionable insights.
+I am a Data Science and Engineering PhD Student from University of Tennessee, Knoxvlle. Before joining this program, I was a Data Analyst in the credit card industry. My role involves developing and refining various financial models to better understand and serve our customers. I specialize in using **R** and **SQL** to analyze data, build predictive models, and derive actionable insights.
 
 ---
 
-### 💼 What I Do
+### Experience
 
 - **Financial Modeling:** Creating models to predict customer behavior, manage credit risk, and optimize marketing strategies.
 - **Data Analysis:** Extracting, transforming, and analyzing large datasets to uncover trends and patterns.
